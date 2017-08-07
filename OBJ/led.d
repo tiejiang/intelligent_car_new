@@ -1,0 +1,14 @@
+.\led.o: ..\HARDWARE\System_LED\led.c
+.\led.o: ..\HARDWARE\System_LED\led.h
+.\led.o: ..\USER\stm32f10x.h
+.\led.o: ..\CORE\core_cm3.h
+.\led.o: D:\MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\led.o: ..\USER\system_stm32f10x.h
+.\led.o: ..\USER\stm32f10x_conf.h
+.\led.o: ..\STM32F10X_FWLIB\inc\stm32f10x_gpio.h
+.\led.o: ..\USER\stm32f10x.h
+.\led.o: ..\STM32F10X_FWLIB\inc\stm32f10x_rcc.h
+.\led.o: ..\STM32F10X_FWLIB\inc\stm32f10x_usart.h
+.\led.o: ..\STM32F10X_FWLIB\inc\misc.h
+.\led.o: ..\SYSTEM\delay\delay.h
+.\led.o: ..\SYSTEM\sys\sys.h

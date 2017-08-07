@@ -1,0 +1,12 @@
+.\infrared.o: ..\HARDWARE\INFRARED\infrared.c
+.\infrared.o: ..\HARDWARE\INFRARED\infrared.h
+.\infrared.o: ..\USER\stm32f10x.h
+.\infrared.o: ..\CORE\core_cm3.h
+.\infrared.o: D:\MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\infrared.o: ..\USER\system_stm32f10x.h
+.\infrared.o: ..\USER\stm32f10x_conf.h
+.\infrared.o: ..\STM32F10X_FWLIB\inc\stm32f10x_gpio.h
+.\infrared.o: ..\USER\stm32f10x.h
+.\infrared.o: ..\STM32F10X_FWLIB\inc\stm32f10x_rcc.h
+.\infrared.o: ..\STM32F10X_FWLIB\inc\stm32f10x_usart.h
+.\infrared.o: ..\STM32F10X_FWLIB\inc\misc.h

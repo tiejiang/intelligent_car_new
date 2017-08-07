@@ -1,0 +1,12 @@
+.\misc.o: ..\STM32F10X_FWLIB\src\misc.c
+.\misc.o: ..\STM32F10X_FWLIB\inc\misc.h
+.\misc.o: ..\USER\stm32f10x.h
+.\misc.o: ..\CORE\core_cm3.h
+.\misc.o: D:\MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\misc.o: ..\USER\system_stm32f10x.h
+.\misc.o: ..\USER\stm32f10x_conf.h
+.\misc.o: ..\STM32F10X_FWLIB\inc\stm32f10x_gpio.h
+.\misc.o: ..\USER\stm32f10x.h
+.\misc.o: ..\STM32F10X_FWLIB\inc\stm32f10x_rcc.h
+.\misc.o: ..\STM32F10X_FWLIB\inc\stm32f10x_usart.h
+.\misc.o: ..\STM32F10X_FWLIB\inc\misc.h

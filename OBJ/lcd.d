@@ -1,0 +1,13 @@
+.\lcd.o: ..\HARDWARE\Nokia510\LCD.c
+.\lcd.o: ..\USER\stm32f10x.h
+.\lcd.o: ..\CORE\core_cm3.h
+.\lcd.o: D:\MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\lcd.o: ..\USER\system_stm32f10x.h
+.\lcd.o: ..\USER\stm32f10x_conf.h
+.\lcd.o: ..\STM32F10X_FWLIB\inc\stm32f10x_gpio.h
+.\lcd.o: ..\USER\stm32f10x.h
+.\lcd.o: ..\STM32F10X_FWLIB\inc\stm32f10x_rcc.h
+.\lcd.o: ..\STM32F10X_FWLIB\inc\stm32f10x_usart.h
+.\lcd.o: ..\STM32F10X_FWLIB\inc\misc.h
+.\lcd.o: ..\HARDWARE\Nokia510\lcd.h
+.\lcd.o: ..\HARDWARE\Nokia510\English.h

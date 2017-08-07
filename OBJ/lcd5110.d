@@ -1,0 +1,16 @@
+.\lcd5110.o: ..\HARDWARE\Nokia510\LCD5110.C
+.\lcd5110.o: ..\USER\stm32f10x.h
+.\lcd5110.o: ..\CORE\core_cm3.h
+.\lcd5110.o: D:\MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\lcd5110.o: ..\USER\system_stm32f10x.h
+.\lcd5110.o: ..\USER\stm32f10x_conf.h
+.\lcd5110.o: ..\STM32F10X_FWLIB\inc\stm32f10x_gpio.h
+.\lcd5110.o: ..\USER\stm32f10x.h
+.\lcd5110.o: ..\STM32F10X_FWLIB\inc\stm32f10x_rcc.h
+.\lcd5110.o: ..\STM32F10X_FWLIB\inc\stm32f10x_usart.h
+.\lcd5110.o: ..\STM32F10X_FWLIB\inc\misc.h
+.\lcd5110.o: ..\HARDWARE\Nokia510\LCD5110.h
+.\lcd5110.o: ..\SYSTEM\sys\sys.h
+.\lcd5110.o: ..\SYSTEM\delay\delay.h
+.\lcd5110.o: ..\HARDWARE\Nokia510\Pixel_EN.h
+.\lcd5110.o: ..\HARDWARE\Nokia510\Pixel_CH.h

@@ -1,0 +1,16 @@
+.\hmc5883l.o: ..\HARDWARE\HMC5883L\HMC5883L.c
+.\hmc5883l.o: ..\SYSTEM\delay\delay.h
+.\hmc5883l.o: ..\SYSTEM\sys\sys.h
+.\hmc5883l.o: ..\USER\stm32f10x.h
+.\hmc5883l.o: ..\CORE\core_cm3.h
+.\hmc5883l.o: D:\MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\hmc5883l.o: ..\USER\system_stm32f10x.h
+.\hmc5883l.o: ..\USER\stm32f10x_conf.h
+.\hmc5883l.o: ..\STM32F10X_FWLIB\inc\stm32f10x_gpio.h
+.\hmc5883l.o: ..\USER\stm32f10x.h
+.\hmc5883l.o: ..\STM32F10X_FWLIB\inc\stm32f10x_rcc.h
+.\hmc5883l.o: ..\STM32F10X_FWLIB\inc\stm32f10x_usart.h
+.\hmc5883l.o: ..\STM32F10X_FWLIB\inc\misc.h
+.\hmc5883l.o: ..\HARDWARE\HMC5883L\hmc5883l.h
+.\hmc5883l.o: ..\HARDWARE\Nokia510\LCD5110.h
+.\hmc5883l.o: D:\MDK\ARM\ARMCC\bin\..\include\math.h

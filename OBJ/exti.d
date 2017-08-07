@@ -1,0 +1,12 @@
+.\exti.o: ..\HARDWARE\EXTI\exti.c
+.\exti.o: ..\HARDWARE\EXTI\exti.h
+.\exti.o: ..\USER\stm32f10x.h
+.\exti.o: ..\CORE\core_cm3.h
+.\exti.o: D:\MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\exti.o: ..\USER\system_stm32f10x.h
+.\exti.o: ..\USER\stm32f10x_conf.h
+.\exti.o: ..\STM32F10X_FWLIB\inc\stm32f10x_gpio.h
+.\exti.o: ..\USER\stm32f10x.h
+.\exti.o: ..\STM32F10X_FWLIB\inc\stm32f10x_rcc.h
+.\exti.o: ..\STM32F10X_FWLIB\inc\stm32f10x_usart.h
+.\exti.o: ..\STM32F10X_FWLIB\inc\misc.h
